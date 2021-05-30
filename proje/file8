@@ -1,0 +1,102 @@
+﻿Secure Programming 2nd Quiz	Asst. Prof. Dr. Mehmet Tahir SANDIKKAYA
+BLG 460E, Spring 2019/20, (CRN: 21645)	Res. Asst. Tacettin AYAR
+on 25th May, 2019 at 12:00 in EEB 5104
+Duration: till 20:00
+          FACULTY of COMPUTER and INFORMATICS ENGINEERING | Computer Engineering Program Name:
+Name: 
+No: 
+   Communication with others in any manner, copying of exam material, any calculators are prohibited for any reason whatsoever and requires disciplinary actions. Please write your answers only in the designated areas. The text outside of those areas will not be graded. Please do not change the formatting and write your answers in black.
+   
+   
+1. An engineer tries to analyze four executable files that respect to four different source code. At first, she simply checks the file, then disassembles them. The engineer prints out the following line. What do each of the phrases mean?
+
+ELF 64-bit LSB shared object, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/l, for GNU/Linux 3.2.0, BuildID[sha1]=8226f9028c3ef5533ae3dd69fb46314b5971b372, not stripped
+i. ELF 
+
+___
+
+ii. 64-bit LSB shared object
+
+___
+
+iii. dynamically linked
+
+___
+
+iv. for GNU/Linux 3.2.0
+
+___
+
+v. not stripped
+
+___
+
+
+2. Consider the provided files in the archive. Print out the entropy of each file and the archive itself. Make a list of their entropies and reason what causes these values. Then, fill in the table according to your results.
+
+File nameContentsEntropyExplanation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. Find the binary file among the given files. Check its architecture, contents, strings, and disassemble and debug it. Then, answer the following questions:
+
+a. What is the entropy of the file?
+
+___
+
+
+b. What is the file’s SHA256 fingerprint?
+
+___
+
+c. What is the architecture of the binary?
+
+___
+
+d. What is the word size of the binary?
+
+___
+
+e. Is the binary compiled for a big-endian or a little-endian machine?
+
+___
+
+f. Is it packed?
+
+___
+
+g. Is it encrypted?
+
+___
+
+h. Write down the most helpful four strings you encounter while checking the contents of the file. Please provide the strings that are useful to recognize the functionality of the program.
+
+___
+___
+___
+___
+
+i. Is the file malicious or benign?
+
+___
+
+j. What does the program do, explain how it works in at most three lines.
+
+___
+___
+___
+
